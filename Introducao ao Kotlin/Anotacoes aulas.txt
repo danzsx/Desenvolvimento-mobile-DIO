@@ -1,2 +1,72 @@
-Introdução ao Kotlin
+# Introdução ao Kotlin
+
+
+
+
+## Android
+
+### Sistema operacional para dispositivos móveis
+### Mais de 2.5 bi de usuários ativos
+### 24 mil modelos de dispositivos diferentes
+### Automóveis, vestíveis, TV, geladeiras e até espelhos
+### Android 12 - última versão. 
+### Mais de 12 milhões de apps publicados na Google Play
+
+
+
+## Desenvolvimento Android
+
+### - Híbrido x nativo
+### - Java, Kotlin, Dart, Javascript e C#
+### - Documentação
+### - Primeiros passos
+### - Kotlin First
+
+#### Híbrido é mais simples que nativo. No nativo, é mais específico. As
+duas tecnlogias são viáveis e depende do contexto. 
+#### Documentação é essencial para nortear o desenvolvedor, pois contém
+todas as informações necessárias para o desenvolvimento. 
+
+# Parte 2: Introdução ao Kotlin
+
+Criado pela JetBrains em 2011. É uma linguagem multiplataforma, orientada a objetos
+e funcional.Gratuito e de código aberto. 
+
+Estrutura da linguagem
+Não utiliza ponto e vírgula
+Não possui operador de ternário tradicional
+Type Safe e null safe
+Inferência de tipo e muito mais
+
+## Aplicabilidade
+### Android nativo
+### mobile multiplataforma
+### frontend Web com Kotlin/JS
+### Framework: Kvision e Fritz2
+### Backend com target node.js do Kotlin/JS
+
+## Vantagens
+
+### Segura, estruturada, menos verbosa, mais otimizada, grande relevância no mercado
+### Interoperabilidade com o Java (fácil de migrar de um para o outro)
+### Smart casts e null safety
+### Android é o Kotlin first
+
+- 2016: Primeira versão estável do Kotlin é liberada;
+- 2017: Google anuncia suporte a Kotlin para desenvolvimento Android;
+- 2018: Segunda linguagem preferida dos desenvolvedores;
+- 2019: Google anuncia que Kotlin é a nova linguagem oficial para desenvolvimento Android;
+
+## E o Java?
+### Continua sendo utilizado, apenas não é mais prioridade.
+
+
+## Resumo
+
+### Kotlin é a linguagem oficial para desenvolvimento Android
+Em desenvolvimento desde 2011
+Possui diversas vantagens como null check e type safe
+É 100% interoperável com Java
+Também desenvolve fronted e backend com Kotlin/Js e multiplataformas.
+
 
